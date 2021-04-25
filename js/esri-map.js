@@ -39,9 +39,9 @@ WildRydes.map = WildRydes.map || {};
         });
 
         var unicornSymbol = new PictureMarkerSymbol({
-            url: '/images/unicorn-icon.png',
+            url: '/images/garlik.jpg',
             width: '25px',
-            height: '25px'
+            height: '40px'
         });
 
         var pinGraphic;
